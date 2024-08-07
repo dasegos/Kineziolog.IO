@@ -1,4 +1,5 @@
-# Бот на `aiogram` для студии «Kineziolog»
+# Бот на `aiogram` для студии «Kineziolog» 
+# [перейти](https://t.me/kineziolog_center_bot) 
 ## Features:
 > __1) Создание рассылки:__     
 
