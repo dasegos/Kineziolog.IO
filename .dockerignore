@@ -1,0 +1,8 @@
+*.xlsx
+README.md
+.gitignore
+.env
+.venv
+__pycache__/
+images/
+videos/
